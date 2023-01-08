@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+    <string name="fab_content_desc" />
+</resources>
